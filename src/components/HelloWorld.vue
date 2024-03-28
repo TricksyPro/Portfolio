@@ -238,7 +238,7 @@ li {
 }
 
 .card-img-overlay {
-  margin-top: 200px;
+  margin-top: 160px;
 }
 
 @media (max-width: 768px) {
